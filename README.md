@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![a photo of me. I'm white, with long brown hair and eyes](../fotop.jpg)
+<div align="center">
+  <img height="200" src="https://pa1.aminoapps.com/6724/3368c3786bc0883769be24def87960a593697071_00.gif"  />
+</div>
 
 # 🌷 Welcome!!!
 
@@ -83,7 +85,6 @@ And a horror game fan!
 <div align="center">
   <img height="200" src="https://media.tenor.com/pttxLYVbZH8AAAAM/hello-pinguin.gif"  />
 </div>
-
 
 
 
