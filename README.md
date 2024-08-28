@@ -29,7 +29,7 @@ Hi, I am Malu. I'm from Rio de Janeiro, Brasil. Yeah, the most beautiful city in
 
 Software developer student at Brigham Young university - 3/9.<br>
 Systems and Development Student at Uberaba University - 1/5.<br>
-Student of the Vai na Web course.<br>
+Frontend Student of the Vai na Web course.<br>
 And a horror game fan! 
 
 <div align="center">
