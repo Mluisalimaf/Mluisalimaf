@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # 🌷 Welcome!!!
 
-Hi, I am Malu. I'm from Rio de Janeiro, Brasil. Yeah, the most beautiful city in the world 🌍 ! 
+Hi, I am Malu. I'm from the most beautiful city in the world, Rio de Janeiro, BRASIL. 🌍 ! 
 
 ###
 
@@ -33,7 +33,7 @@ Frontend Student of the Vai na Web course.<br>
 And a horror game fan! 
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/oYP4A77b_rIAAAAM/granny-dance.gif"  />
+  <img height="200" src="[https://media.tenor.com/oYP4A77b_rIAAAAM/granny-dance.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgebo4482.tumblr.com%2Fpost%2F665763383365320704%2Fpoppy-playtime-by-horror-games-community-twitter&psig=AOvVaw12s1wICfnVZhmAZpTJE-Xw&ust=1727147828905000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODFwpiN2IgDFQAAAAAdAAAAABBX)"  />
 </div>
 
 ###
